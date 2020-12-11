@@ -1,0 +1,27 @@
+.foot{
+    background-color: black;
+    color: white !important;
+   
+}
+.foot{
+    color: white !important;
+    font-size: small;
+    padding: 50px;
+
+}
+.com{
+    color: white;
+    font-weight: 500;
+    font-size: larger;
+    letter-spacing: 2px;
+}
+.log button{
+    border: 1.5px solid white;
+}
+.log button:hover{
+    border: 1.5px solid white;
+}
+.foot .footdata{
+    max-width: fit-content;
+    margin: auto;
+}

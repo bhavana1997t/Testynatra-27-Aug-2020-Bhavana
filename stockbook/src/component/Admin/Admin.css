@@ -1,0 +1,13 @@
+.rad{
+    visibility: hidden;
+    display: none;
+}
+.buttons{
+    display: inline;
+}
+#up{
+    display: none;
+}
+#result{
+    display: none;
+}

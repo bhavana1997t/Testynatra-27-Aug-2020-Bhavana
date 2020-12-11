@@ -1,0 +1,12 @@
+*{
+    font-family: sans-serif;
+
+}
+img{
+    height:60px;
+    width:70px;
+    border-radius: 70px;
+}
+.welcome{
+    font-size: larger;
+}
